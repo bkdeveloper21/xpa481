@@ -8,7 +8,7 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="0"/>
+  <LastIsn val="1"/>
 
   <LastIsnFolder val="0"/>
 
@@ -17,6 +17,7 @@
 <DataRepositoryProperties/>
  <DataSourceRepository>
   <DataObjects>
-  </DataObjects>
+ 
+<DataObject PhysicalName="TestTable" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="33554433" name="TestTable" offset="228" length="2761"/>  </DataObjects>
  </DataSourceRepository>
- <LastModified val="31085213189121132"/>  </Application>
+ <LastModified val="3108521525491082"/>  </Application>
